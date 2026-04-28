@@ -1,4 +1,4 @@
-# POSIX Multithreading & Watchdog Timer (C)
+# POSIX Multithreading & Watchdog Timer
 
 A system-level application that demonstrates advanced multithreading management, signal handling, and Thread Local Storage (TLS) in a Linux environment.
 
